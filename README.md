@@ -7,7 +7,7 @@ A modern web application for detecting and displaying user IP information includ
 The project is deployed on Vercel and available online:
 </p>
 
-<a href="https://ipfinder-six.vercel.app" target="_blank" />
+<a href="https://ipfinder-six.vercel.app" target="_blank">ipfinder-six.vercel.app</a>
 
 ## 🚀 Features
 

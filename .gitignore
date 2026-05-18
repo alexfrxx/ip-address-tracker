@@ -42,4 +42,3 @@ node_modules/
 build/
 dist/
 .cache/
-.vercel

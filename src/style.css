@@ -119,11 +119,11 @@
   font-size: 2rem;
 }
 .map {
-  min-height: calc(100vh - 200px);
+  min-height: calc(100vh - 310px);
 }
 
 #map {
-  height: 550px;
+  height: calc(100vh - 310px);
 }
 
 @media (min-width: 1024px) {
